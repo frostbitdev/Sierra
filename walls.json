@@ -1,0 +1,204 @@
+{
+  "Collections": [
+    {
+      "name": "Landscapes",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "City",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    {
+      "name": "People",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "Wallpaper 1",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall1.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 2",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall2.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 3",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall3.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 4",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall4.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 5",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall5.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 6",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall6.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 7",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall7.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 8",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall8.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 9",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall9.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 10",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall10.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 11",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall11.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 12",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall12.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 13",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall13.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 14",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall14.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 15",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall15.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 16",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall16.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 17",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall17.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 18",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall18.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 19",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall19.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallpaper 20",
+      "author": "Frostbit",
+      "url": "https://raw.githubusercontent.com/Deltabytes/deltawalls/master/wall20.JPG",
+      "collections": "featured,landscapes,people",
+      "dimensions": "UHD",
+      "downloadable": false
+    },
+    {
+      "name": "Wallsplash 21",
+      "author": "Frostbit",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+      "dimensions": "UHD",
+      "copyright": "Free (do whatever you want)",
+      "collections": "landscapes,people"
+    },
+    {
+      "name": "Wallsplash 22",
+      "author": "Frostbit",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+      "dimensions": "UHD",
+      "copyright": "Free (do whatever you want)",
+      "collections": "food"
+    }
+  ]
+}
